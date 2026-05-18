@@ -3,7 +3,6 @@
 I'm a **Master's student in Computer Science at NC State University** (GPA: 3.9/4.0) with a passion for building production-grade AI systems that actually ship. I graduated with a **9.8/10.0 CGPA in AI/ML** from Gujarat Technological University and love the challenge of turning research models into scalable software.
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishvi-patel21) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vaishvipatel2002@gmail.com)
 
 # 💻 Tech Stack:
